@@ -1,10 +1,10 @@
 # My Next.js + Tailwind CSS Starter
 
-This is the setup that I like when starting new Next.js projects with Tailwind.
+This is the setup that I like when starting new Next.js projects with Tailwind and TypeScript.
 
-I use this most often when setting up a new Next **JavaScript** project - with TailwindCSS styling.
+It has the latest versions of Next - prior to the change to 13 - and the latest versions of TypeScript and Tailwind as of November 2022.
 
-I have noticed recently that the official TailwindCSS example from Next.js used TypeScript as the default when generating a new project.
+I use this most often when setting up a new Next **TypeScript** project - with TailwindCSS styling.
 
 I like to keep my `components` folder on the same level as my `pages` folder.
 
